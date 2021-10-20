@@ -23,3 +23,8 @@ hw3_3.cpp: Determines which value of the two inputted values are the minimum and
 
 
 hw3_4.cpp: Prints as many Fibonacci sequence values as the numerical value of the input
+
+
+
+
+hw56: PDF files that outlines the assignment that are represented by functions.hpp, functions.cpp, MyString.cpp, and Fracs.cpp
